@@ -32,7 +32,7 @@ while ($row = mysqli_fetch_array($result))
       <div id="loading">
          <div id="loading-center">
             <div class="load-img">
-               <img src="images/loader.gif" alt="loader">
+               <img src="../images/loader.gif" alt="loader">
             </div>
          </div>
       </div>
